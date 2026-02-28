@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Next.js
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+Thumbs.db
+.DS_Store
